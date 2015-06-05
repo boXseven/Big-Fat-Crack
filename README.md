@@ -8,4 +8,4 @@ Big Fat Jinx - version 0.49
 Big Fat Lulu - version 0.13  
 Big Fat Syndra - version 1.7  
 Big Fat Velkoz - version 0.2  
-Big Fat Viktor - version 1.01  
+Big Fat Viktor - version 1.02  
